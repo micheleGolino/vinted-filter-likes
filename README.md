@@ -76,7 +76,7 @@ https://www.vinted.it/catalog/*
 Examples:
 
 ```
-https://www.vinted.it/catalog?catalog[]=1835&order=relevance
+https://www.vinted.it/catalog?catalog[]=2984&order=relevance
 https://www.vinted.it/catalog/12-tops-and-t-shirts?search_id=...
 https://www.vinted.it/catalog?brand_ids[]=...&order=relevance
 ```
