@@ -21,7 +21,7 @@ A Tampermonkey userscript that hides Vinted catalog items below a minimum number
 ![Vinted Filter by Likes](./assets/before.png)
 
 ### After
-![Vinted Filter by Likes](./assets/before.png)
+![Vinted Filter by Likes](./assets/after.png)
 
 ---
 
